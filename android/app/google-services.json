@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747810309244",
+    "project_id": "qr-scanner-jordan",
+    "storage_bucket": "qr-scanner-jordan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747810309244:android:bc04f6a3acf16fa701f5f9",
+        "android_client_info": {
+          "package_name": "com.example.qr_scanner_account"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdujuWifQ-YjA0PakxsQFn_7fwKGPE4Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747810309244:android:093e51832718610a01f5f9",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdujuWifQ-YjA0PakxsQFn_7fwKGPE4Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
